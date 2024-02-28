@@ -52,6 +52,11 @@ public class Main {
         powerBlocks.forEach(System.out::println);
         System.out.println("---");
 
+
+
+
+
+
 //        while (true) {
 //            powerBlocks
 //
